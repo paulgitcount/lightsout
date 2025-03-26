@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-A point and click escape room game in the dark, where the environment of the room changes.
+A point and click escape room game in the dark, where the room changes.
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
