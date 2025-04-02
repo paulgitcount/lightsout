@@ -16,11 +16,11 @@ For my final project I want to make a point and click escape game, in this game 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
-TODO, if applicable
+not applicable
 
 ## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
 
-TODO, if applicable
+not applicable
 
 ## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
@@ -40,4 +40,4 @@ Mutliple Ending, a Couple more enviroments for the room, and a few jumpscares.
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-TODO
+I'm not sure how to start. I guess i'll start with the room, then find a way to transition the different environments of said room.
