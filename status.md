@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Paul Gimlewicz
 
 #### Your section leader's name
 
-TODO
+N/A
 
 #### Project title
 
-TODO
+Lights Out (my escape room game for my final Project)
 
 ***
 
@@ -18,12 +18,13 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I did the individual envrionments for the room as well as the light bulb gimmick
 
 #### What have you not done for your project yet?
 
-TODO
+the Items and the solved state of the environments.
+I was going to do puzzles for each evironment but I think I'm gonna have to scrap it and make the room a giant puzzle.
 
 #### What problems, if any, have you encountered?
 
-TODO
+getting the light bulb function properly.
